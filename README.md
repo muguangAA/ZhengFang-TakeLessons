@@ -1,5 +1,6 @@
 # ZhengFang-iFaFu
 正方教务系统的抢课脚本，适用于福建农林大学，供参考
+仅支持个性发展课（公选课）抢课
 
 需要安装的库：
 requests，pillow，Beautifulsoup4
