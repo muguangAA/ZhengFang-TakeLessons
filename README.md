@@ -4,7 +4,7 @@
 仅支持个性发展课（公选课）抢课
 
 需要安装的库：
-requests，pillow，Beautifulsoup4
+requests，Pillow，Beautifulsoup4
 
 ![({L87D~WA(N`EH JR6L$XDG](https://user-images.githubusercontent.com/73115010/128710654-b74537e0-d065-4e84-b658-df6d5ef606d1.png)
 
