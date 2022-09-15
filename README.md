@@ -1,7 +1,6 @@
 # ZhengFang-iFaFu
-正方教务系统的抢课脚本，供参考
-
-仅支持个性发展课（公选课）抢课
+正方教务系统的抢课脚本，代码参考
+仅适用部分学校
 
 需要安装的库：
 requests，Pillow，Beautifulsoup4
