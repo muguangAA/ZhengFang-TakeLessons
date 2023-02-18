@@ -1,4 +1,4 @@
-# ZhengFang-iFaFu
+# ZhengFang
 正方教务系统的抢课脚本，代码参考
 仅适用部分学校
 
